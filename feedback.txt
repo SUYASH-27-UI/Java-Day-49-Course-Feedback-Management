@@ -1,0 +1,5 @@
+1001|Rahul|Python|5|Excellent course
+1002|Amit|Java|4|Good explanation
+1003|Priya|Python|4|Very useful
+1004|Sneha|C Programming|5|Great teaching
+1005|Rohan|Java|3|Needs more examples
